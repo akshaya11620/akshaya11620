@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKSHAYAKARTHIKEYANI M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **SHOPPPING WEB APPLICATION**
+- 🔭 I’m currently working on **SHOPPING WEB APPLICATIONS**
 
 - 🌱 I’m currently learning **RDBMS,ROBOTICS**
 
