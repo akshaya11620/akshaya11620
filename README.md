@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **RDBMS,ROBOTICS**
 
-- 💬 Ask me about **PHP,CPP,JAVA,PYTHON,HTML**
+- 💬 Ask me about **PHP,JAVA(BASIC),PYTHON,HTML**
 
 - 📫 How to reach me **akshaya11620@gmail.com**
 
-- ⚡ Fun fact **EATING**
+- ⚡ Fun fact **PLAYING ONLINE GAMES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
